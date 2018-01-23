@@ -6,7 +6,7 @@
   <img  src="https://i.imgur.com/qDpL2ug.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
-<p align="center">A while ago i found an old tablet of mine and decided to use it for a photo frame that also shows the time and date but in the end,showing the time and date, was its main purpose.The apps on the play store were pretty lame so i made my own app in unity.The app has two windows , one for time and one for date and also a battery indicator.</p>
+<p align="center">A while ago i found an old tablet of mine and decided to use it for a photo frame that also shows the time and date. In the end showing the time and date became its main purpose.The apps on the play store were not tailored for my need so i made my own app in unity.The app has two windows , one for time and one for calendar and also a battery indicator.</p>
 <h1 align="center">BUILT WITH</h1>
  <p align="center">  <a href="https://unity3d.com/">Unity3D </a>- Graphics Engine</p>
  <p align="center" >  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/">C# </a>- Scripting Language</p>
